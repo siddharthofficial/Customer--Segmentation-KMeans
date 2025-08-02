@@ -11,7 +11,7 @@ The goal is to group similar customers together to:
 ---
 
 ## 📊 Dataset
-- **Source**: [Mall Customer Segmentation Dataset](https://www.kaggle.com/datasets/vjchoudhary7/customer-segmentation-tutorial)
+- **Source**: [Mall Customer Segmentation Dataset]
 - **Features used**:
   - Annual Income (k$)
   - Spending Score (1–100)
